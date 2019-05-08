@@ -18,7 +18,7 @@ class UrbanovaCloudIoTClient():
     self.deviceId = deviceId
     rootCAPath = credentialsPath + "rootCA.cert"
     privateKeyPath = credentialsPath + "thing.cert.pem"
-    certificatePath =credentialsPath + "thing.private.key"
+    certificatePath = credentialsPath + "thing.private.key"
 
     # Init Urbanova Cloud IoT MQTT Client using TLSv1.2 Mutual Authentication
     self.mqttClient = None  # initialize var
