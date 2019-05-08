@@ -1,5 +1,4 @@
-# urbanova-cloud-iot-sdk-python
-Urbanova Cloud IoT SDK for Python
+# Urbanova Cloud IoT SDK for Python
 
 To use this SDK you will need an Urbanova Cloud Account (currently in Alpha).
 
