@@ -6,7 +6,7 @@ To use this SDK you will need an Urbanova Cloud Account (currently in Alpha).
 
 * From your Urbanova Cloud account, add a new Data Source, select the Internet of Things / Urbanova IoT SDK option.
 
-* From the IoT Data Source configuration options, choose Connection Kit, and click the 'Download Urbanova Cloud IoT Connection Kit for Linux/Python' link.
+* From the IoT Data Source configuration options, choose Connection Kit, and click the 'Download Urbanova Cloud IoT Connection Kit for Linux/Python' option.
 
 * The connection kit provides the deviceId and credentials (keys and certificates) required to securely connect your IoT edge device to Urbanova Cloud using the Urbanova IoT SDK.
 
