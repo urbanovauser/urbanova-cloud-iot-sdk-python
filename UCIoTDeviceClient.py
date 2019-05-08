@@ -16,7 +16,7 @@ class UrbanovaCloudIoTClient():
   def __init__(self, deviceId, credentialsPath=""): # Todo: pass custom callback to handle subscription events
 
     self.deviceId = deviceId
-    rootCAPath = credentialsPath + "rootCA.crt"
+    rootCAPath = credentialsPath + "rootCA.cert"
     privateKeyPath = credentialsPath + "thing.cert.pem"
     certificatePath =credentialsPath + "thing.private.key"
 
