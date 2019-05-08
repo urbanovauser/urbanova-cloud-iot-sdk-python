@@ -14,7 +14,7 @@ To use this SDK you will need an Urbanova Cloud Account (currently in Alpha).
 The following example shows how to use the Urbanova IoT SDK for Python to connect and send messages to Urbanova Cloud:
 
 ```python
-from UrbanovaCloudIoTSDK import UrbanovaCloudIoTClient
+from UrbanovaCloudIoTSDKPython import UrbanovaCloudIoTClient
 import json
 import time
 
