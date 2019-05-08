@@ -1,2 +1,2 @@
-# urbanova-cloud-iot-sdk
-Urbanova Cloud IoT SDK
+# urbanova-cloud-iot-sdk-python
+Urbanova Cloud IoT SDK for Python
